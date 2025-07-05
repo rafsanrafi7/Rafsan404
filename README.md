@@ -50,7 +50,6 @@
 <p align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=rafsanrafi7&show_icons=true&locale=en" alt="rafsanrafi7" />
 </p>
-
 <p align="center" style="margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafsanrafi7&" alt="rafsanrafi7" />
 </p>
